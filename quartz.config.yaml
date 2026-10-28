@@ -112,7 +112,7 @@ plugins:
     enabled: true
     options:
       fontOrigin: googleFonts
-      body: Lora
+      body: Nunito
       header: Lora
       code: JetBrains Mono
   - source: github:quartz-community/remove-draft
