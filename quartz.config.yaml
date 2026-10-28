@@ -16,8 +16,8 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Nunito
-      body: '"Inter"'
+      header: Lora
+      body: Lora
       code: IBM Plex Mono
     colors:
       lightMode:
@@ -110,6 +110,11 @@ plugins:
     order: 92
   - source: github:quartz-community/fonts
     enabled: true
+    options:
+      fontOrigin: googleFonts
+      body: Inter
+      header: Playfair Display
+      code: JetBrains Mono
   - source: github:quartz-community/remove-draft
     enabled: true
   - source: github:quartz-community/explicit-publish
