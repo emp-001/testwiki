@@ -1,6 +1,6 @@
 ---
 infobox:
-  title: create a link
+  title: infobox name
   fields:
     - section: section 1
     - Label name: This is a value text thing
@@ -10,6 +10,10 @@ infobox:
     - Label name: This is a value text thing
   supertitle: infoboxtest
   subtitle: subtitle
+  images:
+    - label: image name
+      image: ""
+      caption: ""
 what is this: hellooooo
 ---
 test **text**
@@ -17,6 +21,7 @@ test **text**
 > [!NOTE]
 > **test text CALLOUT**
 
-| Test |     |
-| ---- | --- |
-|      |     |
+| Test |     |     | tessssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssst |
+| ---- | --- | --- | ------------------------------------------------------------------ |
+|      |     |     |                                                                    |
+|      |     |     |                                                                    |
