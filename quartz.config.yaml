@@ -17,10 +17,7 @@ configuration:
     cdnCaching: true
     typography:
       header: Nunito
-      body: 
-  name: Inter
-  weights: [400, 600, 700]
-  includeItalic: true
+      body: '"Inter"'
       code: IBM Plex Mono
     colors:
       lightMode:
