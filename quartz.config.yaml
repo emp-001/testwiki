@@ -16,8 +16,8 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: "Lora"
-      body: Lora
+      header: '"Lora", sans-serif'
+      body: '"Lora", sans-serif'
       code: IBM Plex Mono
     colors:
       lightMode:
