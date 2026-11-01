@@ -14,14 +14,8 @@ infobox:
     - label: image name
       image: ""
       caption: ""
-what is this: hellooooo
 ---
-test **text**
-
-> [!NOTE]
-> **test text CALLOUT**
-
-| Test |     |     | tessssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssst |
-| ---- | --- | --- | ------------------------------------------------------------------ |
-|      |     |     |                                                                    |
-|      |     |     |                                                                    |
+Test Text
+Test 
+Test
+Test
