@@ -46,8 +46,8 @@ plugins:
     options:
       fallbackToNoteTags: true
       layout:
-      position: right
-      priority: 5
+       position: right
+       priority: 5
   - source: github:quartz-community/created-modified-date
     enabled: true
     options:
