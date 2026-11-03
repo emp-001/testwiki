@@ -157,7 +157,7 @@ In cities, a similar system is followed through guilds, though crafted goods or 
 | **Import** | Flax, Sugar, Salt, Spices, Wine, Pottery                        |
 | **Export** | Copper, Silver, Lead, Stone, Lumber, Tools, Weapons, Wool, Furs |
 
-
+---
 
 ## Relations
 
