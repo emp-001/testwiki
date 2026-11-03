@@ -22,7 +22,6 @@ infobox:
   tags:
     - Nation
     - Three-Skies
-title: Highland Warriors
 ---
 ***Highland Warriors***
 
