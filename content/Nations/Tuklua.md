@@ -16,7 +16,7 @@ infobox:
     - Demonym: Tuklut
   images:
     - label: ""
-      image: Tuklua Flag.png
+      image: https://emp-001.github.io/testwiki/attachments/tuklua-flag.png
       caption: Flag of the Tuklut High King
   supertitle: High Kingdom
   tags:
@@ -34,8 +34,6 @@ In time, they have come to rely on the Prakanch for their financial and naval ex
 ## Origins
 
 The Tuklut have existed in the valley of the Ukul river for millennia. Myth has it that their twelve patron gods emerged from their homes in the mountains of the north, to make of the foothills their personal garden. Six pairs of gods each built a palace there, along with a neutral meeting place, which later became the seven cities of the Tuklut: Plukina, Raku, Emek, Koba, Anhar, Rawkot and Kajat.
-
-![[Tuklua Flag.png]]
 
 The mortal inhabitants of the valley quickly came to serve under the gods and worship them, enjoying the protection offered by their power.
 
