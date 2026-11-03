@@ -35,6 +35,8 @@ In time, they have come to rely on the Prakanch for their financial and naval ex
 
 The Tuklut have existed in the valley of the Ukul river for millennia. Myth has it that their twelve patron gods emerged from their homes in the mountains of the north, to make of the foothills their personal garden. Six pairs of gods each built a palace there, along with a neutral meeting place, which later became the seven cities of the Tuklut: Plukina, Raku, Emek, Koba, Anhar, Rawkot and Kajat.
 
+![[Tuklua Flag.png]]
+
 The mortal inhabitants of the valley quickly came to serve under the gods and worship them, enjoying the protection offered by their power.
 
 The gods lived peacefully in the valley for a thousand years, until one of them, Na, felt they should return to the mountains and their old homes, abandoning the imperfect world below. At a meeting of the gods at Kujet, their meeting place, Na fell into a rage, killing their partner Ehi and taking the other gods captive.
