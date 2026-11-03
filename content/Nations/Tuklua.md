@@ -3,12 +3,8 @@ infobox:
   title: Tuklua
   fields:
     - Capital: Koba
-    - Languages: |-
-        Tuklut (Official)
-        Siychur (Trade)
-    - Religions: |-
-        True Faith (Official)
-        Ancestor Worship (Regional)
+    - Languages: Tuklut (Official); Siychur (Trade)
+    - Religions: True Faith (Official); Ancestor Worship (Regional)
     - Faction: Three Skies
     - Government: Monarchy
     - Ruler: Aytel IV of the Kobon
@@ -156,10 +152,12 @@ A system of corvee labour is well-established in Tuklua, where labour is extract
 
 In cities, a similar system is followed through guilds, though crafted goods or silver can be exchanged in lieu of days of labour.
 
-|            | Goods                                                           |
+| Mode       | Goods                                                           |
 | ---------- | --------------------------------------------------------------- |
 | **Import** | Flax, Sugar, Salt, Spices, Wine, Pottery                        |
 | **Export** | Copper, Silver, Lead, Stone, Lumber, Tools, Weapons, Wool, Furs |
+
+
 
 ## Relations
 
