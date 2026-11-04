@@ -7,7 +7,9 @@ infobox:
     - Religions: True Faith (Official); Ancestor Worship (Regional)
     - Faction: Three Skies
     - Government: Monarchy
-    - Ruler: Aytel IV of the Kobon
+    - Ruler: |-
+        MAK-LAMRA
+        Aytel IV of the Kobon
     - Population: Millions
     - Demonym: Tuklut
   images:
@@ -19,9 +21,9 @@ infobox:
     - Nation
     - Three-Skies
 ---
-***Highland Warriors***
+> ***Highland Warriors***
 
-**The Mak-Lamranat, or High Kingdom of Tuklua** is a nation in the west of the continent, in the foothills of the En-Chula Mountains. It is one of the founding members of the Three Skies League, alongside Iruchu and Prakan, and is the military teeth of the alliance, supplying it with experienced soldiers and riparines (river warriors) for its famous River Fleet.
+***Mak-Lamranat Tuklut,* or the High Kingdom of Tuklua**, is a nation in the west of the continent, in the foothills of the En-Chula Mountains. It is one of the founding members of the Three Skies League, alongside Iruchu and Prakan, and is the military teeth of the alliance, supplying it with experienced soldiers and riparines (river warriors) for its famous River Fleet.
 
 Living in highlands and foothills, the Tuklut are a clan-based society with an abiding respect for their ancestors, who they regarded as deities prior to the arrival of the True Faith a couple of centuries ago. They prize consistency, honesty and are fiercely defensive of their own way of life, and as such continue to speak their native tongue and honour their ancestors in a way that borders on heretical.
 
